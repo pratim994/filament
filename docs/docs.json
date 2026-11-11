@@ -159,6 +159,7 @@
               "pages/connectors/sources/mysql",
               "pages/connectors/sources/kafka",
               "pages/connectors/sources/nats",
+              "pages/connectors/sources/airtable",
               "pages/connectors/sources/apollo",
               "pages/connectors/sources/attio",
               "pages/connectors/sources/fhir",
